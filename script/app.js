@@ -1,7 +1,7 @@
 let menuIcon = document.querySelector('.dropDownMenu');
 let menuI = document.querySelector('.menuLines');
 let counter = 0;
-
+window.location.href = "http://beros.ge";
 
 function toggleMenu() {
     menuIcon.classList.toggle('displayNone')
